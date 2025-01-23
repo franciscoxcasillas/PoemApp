@@ -34,7 +34,7 @@ struct PoemView: View {
             Text("Roses are red,")
                 .foregroundColor(Color("Main"))
             Text("Violets are blue,")
-                .foregroundColor(Color("Secondary"))
+                .foregroundColor(Color("Second"))
             Text("So why are they called")
                 .bold()
             Text("Violets if they're blue?")
